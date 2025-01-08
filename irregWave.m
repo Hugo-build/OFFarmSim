@@ -1,0 +1,7 @@
+function [] = irregWave()
+
+
+
+
+
+end
