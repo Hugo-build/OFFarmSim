@@ -1,0 +1,14 @@
+{
+  "current": {
+    "vel": [
+      0,
+      0
+    ],
+    "zlevel": [
+      -12,
+      -30
+    ],
+    "wakeRatio": 1,
+    "propDir": 0
+  }
+}
