@@ -1,0 +1,17 @@
+{
+  "nVar":0,
+  "nCase":1,
+  "caseList":[],
+  "infoList":[],
+  "sim":
+  {
+    "simStatic":true,
+    "simDyn":false,
+    "simDynPreCalc":false
+  },
+  "savings":
+  {
+    "saveStaticA":true,
+    "saveDynamicMotion":true
+  }
+}
