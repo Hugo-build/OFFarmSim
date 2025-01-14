@@ -1,5 +1,4 @@
 {
-  "current": {
     "vel": [
       0,
       0
@@ -10,5 +9,4 @@
     ],
     "wakeRatio": 1,
     "propDir": 0
-  }
 }

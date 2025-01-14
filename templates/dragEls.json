@@ -1,0 +1,9 @@
+{
+    "attachNodePos_init":[],
+    "attachNodePos":[],
+    "attachNodeVec":[],
+    "attachNodeCd":[],
+    "attachNodeArea":[],
+    "ElType":["cylinder", "net"],
+    "ElIndex": [[],[]]
+}
